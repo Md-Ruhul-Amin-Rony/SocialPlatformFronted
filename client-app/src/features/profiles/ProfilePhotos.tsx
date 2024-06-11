@@ -40,6 +40,7 @@ function handleDeletePhoto(photo:Photo, e:SyntheticEvent<HTMLButtonElement>){
               basic
               content={addPhotoMode ? "Cancel" : "Add Photo"}
               onClick={() => setAddPhotoMode(!addPhotoMode)}
+              color="blue"
             />
           )}
         </Grid.Column>
