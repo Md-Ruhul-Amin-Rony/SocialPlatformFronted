@@ -1,6 +1,6 @@
 # SocialPlatformFronted
 # SocialPlatform
-# Reactivities
+
 
 Welcome to **Reactivities**, a modern and robust event management application built with ASP.NET Core and React. This application allows users to create, manage, and join events, while providing functionalities for live chat, photo uploads, and social interactions.
 
